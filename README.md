@@ -1,2 +1,2 @@
 # bootstrap-login
-Aplikasi dinamis sederhana menggunakan php dan bootstrap 
+Aplikasi dinamis sederhana menggunakan php dan framework bootstrap 
